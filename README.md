@@ -1,3 +1,4 @@
+# Leia antes de usar
 # SI-EstacionamentoSS
 # NOME: E-ESTACIONAR +
 SI-Estacionamento 
